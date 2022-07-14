@@ -1,1 +1,3 @@
-inititate conflict
+initi
+
+ate conflict
