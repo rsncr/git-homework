@@ -1,6 +1,2 @@
-initi
-
-ate conflict
-
-
-why is it just overwriting??
+Initiating conflict
+![conflict successfully initiated](conflict.jpg)
