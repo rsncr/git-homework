@@ -1,3 +1,2 @@
-initi
-
-ate conflict
+Initiating conflict
+![conflict successfully initiated](conflict.jpg)
